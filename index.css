@@ -1,0 +1,25 @@
+.dien2{
+	font-family:Arial;
+	font-size:10px;
+	color:#333;
+	}
+.dien3{
+	font-size:20px;
+	box-sizing:border-box;
+	color:black;
+	font-style:italic;
+	background-color:#00CCFF;
+}
+
+	h1{
+		
+		background-color:#FFCC99;
+		font-size:50px}
+.dien6{background-color:#333333;
+color:white;
+padding:inherit;}
+.banquyen{background-color:#333333;
+color:white;}
+h2{
+	position:relative
+	left:20px;}
